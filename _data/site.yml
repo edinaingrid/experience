@@ -62,17 +62,23 @@ skills:
   - name: Technical requirements & documentation
     level: 90
   - name: Backend development
-    level: 80
+    level: 60
   - name: Platform engineering
     level: 70
 
 
 experience:
-  - role: Senior Software Engineer
-    company: Acme Technologies
-    period: "2022 — Present"
-    description: "Led development of the company's core platform, reducing API response times by 60% and supporting a 3× growth in user base. Architected a real-time event streaming system handling 2M+ events per day. Mentored a team of 4 junior engineers."
-    tags: [React, Node.js, Kafka, AWS, PostgreSQL]
+  - role: Product Manager - THEO (Track, Harvest and Expand Opportunities)
+    company: KPMG Technology | Digital Assets
+    period: "2025 — present"
+    description: "Identified the market opportunity and led the end-to-end implementation of the solution with a global cross-functional team. Drove product strategy in a global setting with 8+ stakeholder groups, mapping business processes into the product, leading to the adoption rate increasing twofold every year.¨
+    tags: [Azure DevOps, .Net, Microsoft Azure, Qubus, PowerBI, Transaction Services, Global deployment]
+  
+  - role: Product Manager - KPMG GAAP Conversion Tool 
+    company: KPMG Technology | Digital Assets
+    period: "2019 — 2024"
+    description: "Identified the market opportunity and led the end-to-end implementation of the solution with a global cross-functional team. Drove product strategy in a global setting with 8+ stakeholder groups, mapping business processes into the product, leading to the adoption rate increasing twofold every year.¨
+    tags: [Azure DevOps, .Net, Microsoft Azure, Qubus, Accounting Services, Global deployment]
 
   - role: Software Engineer
     company: Bright Labs
