@@ -9,43 +9,66 @@ github: edinaingrid
 linkedin: edinaingrid
 
 tagline: "Building things that matter"
-bio_lead: "I'm a full-stack software engineer with over seven years of experience building products that scale."
+bio_lead: "I'm a  software product and organizational professional with over eleven years of experience building products and advancing organisations."
 bio: |
   My background spans early-stage startups and enterprise environments — giving me the range to move fast when needed and architect for the long haul when it matters. I've led teams, built from zero-to-one, and done everything in between.
 
   Outside of work, I contribute to open source, write about software architecture, and tinker with side projects.
 
 stats:
-  - number: "7+"
+  - number: "11+"
     label: Years exp.
-  - number: "40+"
-    label: Projects shipped
-  - number: "12"
-    label: Open source
-  - number: "3"
-    label: Companies
+  - number: "20+"
+    label: Clients
+  - number: "4"
+    label: Products
+  - number: "8"
+    label: Roles
 
 technologies:
-  - TypeScript
-  - React
-  - Node.js
-  - Python
-  - PostgreSQL
-  - AWS
+product management:
+  - Jira
+  - Azure DevOps
+  - Mural
+  - Miro
+  - Obeya
+  - Confluence
+  - Wiki
+  - Microsoft 365
+  - Google Workspace
+Software development:
+  - OOP
+  - Java
+  - SonarQube
+  - Fortify on Demand 
+  - Architecture
+  - Eclipse
+  - Mercurial
+  - Git
   - Docker
-  - GraphQL
+  - CruiseControl
+  - Oracle
+  - SQL
+  - API
+
 
 skills:
-  - name: Frontend Development
+product management:
+  - name: Technical & Delivery
     level: 90
-  - name: Backend & APIs
+  - name: Agile product delivery
     level: 88
-  - name: Cloud & DevOps
-    level: 75
-  - name: System Design
-    level: 82
-  - name: Database Architecture
-    level: 78
+  - name: Software development lifecycle (SDLC)
+    level: 95
+  - name: Developer experience
+    level: 80
+  - name: Technical requirements & documentation
+    level: 90
+  - name: Backend development
+    level: 80
+  - name: TPlatform engineering
+    level: 90
+
 
 experience:
   - role: Senior Software Engineer
