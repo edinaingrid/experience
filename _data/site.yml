@@ -123,7 +123,8 @@ projects:
     url: "#"
     tags: [React, FFmpeg, Whisper API]
 
-    interests:
+
+interests:
   - icon: "⚙"
     title: Platform Engineering
     description: "Passionate about building internal developer platforms, CI/CD pipelines, and the infrastructure that lets teams ship faster."
