@@ -108,6 +108,24 @@ layout: default
   </div>
 </section>
 
+<!-- INTERESTS -->
+<section id="interests">
+  <div class="section-inner">
+    <div class="section-label">Interests</div>
+    <h2>Beyond the keyboard</h2>
+    <div class="interests-grid">
+      {% for interest in site.data.site.interests %}
+      <div class="interest-card fade-up">
+        <div class="interest-icon">{{ interest.icon }}</div>
+        <div class="interest-title">{{ interest.title }}</div>
+        <p class="interest-desc">{{ interest.description }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+
 <!-- CONTACT -->
 <section id="contact">
   <div class="section-inner">
