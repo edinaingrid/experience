@@ -122,3 +122,17 @@ projects:
     description: "Async video update tool for remote teams — record, auto-transcribe, and share standup updates without meetings."
     url: "#"
     tags: [React, FFmpeg, Whisper API]
+
+    interests:
+  - icon: "⚙"
+    title: Platform Engineering
+    description: "Passionate about building internal developer platforms, CI/CD pipelines, and the infrastructure that lets teams ship faster."
+  - icon: "📖"
+    title: Reading
+    description: "From technical deep-dives to fiction — always with a book on the go. Especially drawn to systems thinking and behavioural science."
+  - icon: "🧠"
+    title: Psychology
+    description: "Fascinated by how people think, make decisions, and interact. It shapes how I approach team dynamics and product design."
+  - icon: "🌴"
+    title: Brazilian Culture & Dancing
+    description: "Brazilian culture, music, and dance are a big part of my life outside of tech. Samba and forró are my favourites."
