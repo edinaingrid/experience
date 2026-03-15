@@ -115,7 +115,6 @@ projects:
     items:
     - title: StreamKit
       description: "Open-source real-time data streaming library for Node.js with built-in backpressure management and WebSocket support."
-      tags: [Node.js, WebSockets, TypeScript]
     - title: KGCT
       description: ""
     - title: Credit File Review
@@ -128,57 +127,42 @@ projects:
     items:
     - title: Palette UI
       description: "A minimal React component library focused on accessibility and composability. Used by 1,200+ developers on npm."
-      tags: [React, WCAG 2.1, Storybook]
     - title: Software Quality Assessment
       description: ""
-      tags: [React, WCAG 2.1, Storybook]
     - title: Waardebepaling
       description: ""
-      tags: [React, WCAG 2.1, Storybook]
     - title: Infrastructure Inventory
       description: ""
-      tags: [React, WCAG 2.1, Storybook]
     - title: Solution Architect
       description: ""
-      tags: [React, WCAG 2.1, Storybook]
     - title: Operational Stability Review
       description: ""
-      tags: [React, WCAG 2.1, Storybook]
     - title: Software Quality Assessment II
       description: ""
-      tags: [React, WCAG 2.1, Storybook]
 
   - category: Organizational Change Advisory
     number: "03"
     items:
     - title: Rabo
       description: ""
-      tags: [React, PostgreSQL, Python]
     - title: HSBC
       description: ""
-      tags: [React, PostgreSQL, Python]
     - title: Ecobank
       description: ""
-      tags: [React, PostgreSQL, Python]
     - title: Aegon
       description: ""
-      tags: [React, PostgreSQL, Python]
     - title: Tesco
       description: ""
-      tags: [React, PostgreSQL, Python]
     - title: Allianz
       description: ""
-      tags: [React, PostgreSQL, Python]
     
   - category: Software Development
     number: "04"
     items:
       - title: Java Backend EVR
         description: ""
-        tags: [Go, OpenAI API, Shell]
       - title: Software Developer Intern
         description: ""
-        tags: [Go, OpenAI API, Shell]
 
 interests:
   - icon: "⚙"
