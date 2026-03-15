@@ -28,34 +28,20 @@ stats:
     label: Different roles
 
 technologies:
-  - Jira
-  - Azure DevOps
-  - Mural
-  - Miro
-  - Obeya
-  - Confluence
-  - Wiki
-  - Microsoft 365
-  - Google Workspace
-  - OOP
-  - Java
-  - SonarQube
-  - Fortify on Demand 
-  - Architecture
-  - Eclipse
-  - Mercurial
-  - Git
-  - Docker
-  - CruiseControl
-  - Oracle
-  - SQL
+  - Product lifecycle management
+  - Senior stakeholder management
+  - Data-driven decision making
+  - Roadmap ownership
+  - Backlog prioritization
+  - Developer experience
+  - Software quality
+  - Organization change
+  - IT service management
 
 
 skills:
-  - name: Technical & Delivery
-    level: 90
   - name: Agile product delivery
-    level: 88
+    level: 90
   - name: Software development lifecycle (SDLC)
     level: 95
   - name: Developer experience
