@@ -125,20 +125,26 @@ projects:
   - category: Software Development Advisory
     number: "02"
     items:
-    - title: Palette UI
-      description: "A minimal React component library focused on accessibility and composability. Used by 1,200+ developers on npm."
-    - title: Software Quality Assessment
-      description: ""
-    - title: Waardebepaling
-      description: ""
-    - title: Infrastructure Inventory
-      description: ""
-    - title: Solution Architect
-      description: ""
     - title: Operational Stability Review
-      description: ""
-    - title: Software Quality Assessment II
-      description: ""
+      description: "I led the assessment of the operational stability of a software platform, evaluating it across dimensions of architectural robustness, effectiveness of management processes, and communication with end-users and the client. The assessment was conducted through stakeholder and architect interviews and analysis of documentation and SLA reports. The resulting report detailed the findings and outlined concrete improvement actions."
+    - title: Rebuild value estimation
+      description: "I developed a rebuild estimation for a pension administrator through a structured analysis of functional scope, technical complexity, and available building blocks. This resulted in a transparent, parametric model in which assumptions, risks, and cost breakdowns were made explicit and reproducible."
+    - title: Infrastructure Inventory
+      description: "I led the infrastructure inventory of a subsidy management system and its associated data warehouse for a public sector entity. Beyond the inventory itself, the engagement included producing an estimation and migration plan proposal for a transition to a new hosting provider."
+    - title: System assessment retail
+      description: "I led a software quality review of a retailer's systems, including the software running on Point of Sale devices. My team and I reviewed the source code and documentation, providing ratings on maintainability, scalability, security, and reliability. The assessment combined automated tooling, SonarQube and OWASP, with manual code analysis."
+    - title: Acquisition due diligence enery
+      description: "As part of an acquisition process for a large energy company, I contributed to a due diligence review of a software product, assessing its technical quality across maintainability, reliability, security, and scalability, while also gaining insight into the development and operations processes. The IT landscape was large and complex, with many bespoke components."
+    - title: Supporting internal IT audit e-commerce
+      description: "I supported an internal audit across several product development teams at a large e-commerce investment company. My focus was on reviewing product development processes — including backlog management, prioritisation methods, and alignment to the company's strategic goals."
+    - title: Due diligence transport provider
+      description: "As part of a larger due diligence project for a Swiss public transport provider, I performed a software quality assessment with a focus on analysing source code for maintainability, security, and reliability."
+    - title: Software inventory and quality review
+      description: "As part of a team engagement for a Dutch multinational professional services firm, I contributed to a software inventory and quality review covering maintainability, security, and reliability as defined by ISO 25010, alongside a value estimation of a digital platform. The review drew on available documentation, source code and artefact analysis, and interviews with key developers."
+      - title: Solution architecture design
+      description: "As part of a large modernisation programme at a public sector entity, I developed several architectural frameworks to guide the transition from monolithic systems to scalable, maintainable, and reliable microservices. These frameworks covered technology choices (Java, PostgreSQL), infrastructure (Kubernetes), messaging options, API gateway usage, and CI/CD tooling setup — with a strong emphasis on maintainability, security, and reliability. I also coached the development teams, who were early in their maturity journey, and built several proof-of-concepts to accelerate both development and understanding. Throughout the engagement I acted as a bridge between the development teams, management, and enterprise architects."
+    - title: DevOps maturity model design
+      description: "I co-designed a DevOps maturity model as a KPMG asset that organisations can use to assess their maturity across development and continuous integration practices."
 
   - category: Organizational Change Advisory
     number: "03"
