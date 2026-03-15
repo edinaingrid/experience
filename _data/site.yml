@@ -47,7 +47,6 @@ technologies:
   - CruiseControl
   - Oracle
   - SQL
-  - API
 
 
 skills:
@@ -80,17 +79,36 @@ experience:
     description: "Identified the market opportunity and led the end-to-end implementation of the solution with a global cross-functional team. Drove product strategy in a global setting with 8+ stakeholder groups, mapping business processes into the product, leading to the adoption rate increasing twofold every year."
     tags: [Azure DevOps, .Net, Microsoft Azure, Qubus, Accounting Services, Global deployment]
 
-  - role: Software Engineer
-    company: Bright Labs
-    period: "2019 — 2022"
-    description: "Built and maintained a SaaS analytics dashboard used by 500+ enterprise clients. Designed the data pipeline infrastructure from scratch, cutting ingestion latency from 8s to under 400ms."
-    tags: [TypeScript, Python, Redis, Docker, GCP]
+  - role: Software quality and DevOps consultant
+    company: KPMG Technology | Tech Delivery
+    period: "2018 — present"
+    description: "Conducted 20+ due diligence and continuous improvement reviews for product quality, architecture and governance model, resulting in recommendations for an optimized development life-cycle."
+    tags: [Software quality, CI/CD, ISO, SonarQube, OWASP] 
 
-  - role: Junior Developer
-    company: Nexbridge Studio
-    period: "2017 — 2019"
-    description: "Developed client-facing web applications for small and medium businesses. Delivered 15+ projects on time and within scope."
-    tags: [JavaScript, Vue.js, PHP, MySQL]
+  - role: IT Service Management coach
+    company: KPMG Technology | Tech Delivery
+    period: "2020 — present"
+    description: "Coached 12+ leadership team members of the loan products value stream of a retail bank, improving the business agility of their teams within 1 year. Coached data platform teams in improving the maturity of their incident and change management processes. "
+    tags: [Software quality, CI/CD, ISO, SonarQube, OWASP] 
+
+  - role: Trainer in organization model and way of working
+    company: KPMG Technology | Tech Delivery
+    period: "2020 — present"
+    description: "Trained 250+ professionals in 5 different organizations on methodologies like Scrum, Kanban, SAFe, LPM, and work management  tools such as Jira and Azure DevOps. "
+    tags: [Operating models, Kanban, Scrum, SAFe, LPM, DesignThinking] 
+    
+    
+  - role: Product Owner - EVR banking application
+    company: msg systems | Gillardon
+    period: "2017 — 2018"
+    description: "Drove product backlog refinement and user story definition, and being part of the cross-functional development team. Steered PBI prioritization aligned with the release plan.."
+    tags: [Jira, Scrum, Backlog management, Refinement, Release planning]
+
+  - role: Backend Developer
+    company: msg systems | Gillardon
+    period: "2013 — 2018"
+    description: "Developed the backend in Java of complex product in the financial sector. Refined user stories, developed several type of automated testing, designed feature development."
+    tags: [Java, OOP, Testing, SonarQube, Eclipse, Mercurial, Git, CruiseControl, Oracle]
 
 projects:
   - number: "01"
